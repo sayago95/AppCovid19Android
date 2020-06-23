@@ -1,6 +1,7 @@
 # componentes
 
-A new Flutter project.
+Creación de una aplicación móvil para SO Android para brindar información a niños sobre el COVID19. 
+Cuenta con las secciones: ¿Qué es el covid19?, medidas preventivas, cuentos, actividades para hacer en cuarentena, preguntas y respuestas. 
 
 ## Getting Started
 
@@ -14,3 +15,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
